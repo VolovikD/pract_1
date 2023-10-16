@@ -12,8 +12,8 @@
 Запускаем install и на все соглашаемся.
 
 ## Работа в git bash.
-help  (0_0)
-git --help (0_0)
+help  (0_0)<br>
+git --help (0_0)<br>
 git [command] --help  (0_0)
 
 - создать репозиторий: git init
